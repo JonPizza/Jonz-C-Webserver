@@ -20,6 +20,7 @@ As well as:
  - Has directory traversal protection
  - Doesn't support URL encoding
  - Probably has a memory leak
+ - Serves everything over port 6969
 
 Enjoy!
 
