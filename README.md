@@ -1,8 +1,8 @@
 # Jonz C Webserver
 
-This is a webserver that will:
+This is a webserver that will never:
 
- - Never give you up
+ - Give you up
  - Let you down
  - Run around
  - Desert you
